@@ -65,7 +65,7 @@ Don't worry if this process seems a little confusing. It will be explained in mo
 * Return to your web browser and navigate to the lesson you want to download 
 * Click the GitHub icon 
 
-<img src="images/SC05.png" width="600">
+<img src="images/SC05a.png" width="600">
 
 You'll be redirected to the associated GitHub repository.
 
